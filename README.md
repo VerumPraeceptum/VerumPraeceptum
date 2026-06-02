@@ -12,5 +12,5 @@ A player data system built on top of ProfileStore and ReplicaService. It handles
 
 ## Contact
 
-Discord: @9to9/n
+Discord: @9to9
 Roblox: VerusFortuna
